@@ -1,6 +1,6 @@
 # CMR Metadata Review
 
-## Introduction
+## Synopsis
 
 The CMR Metadata Review tool is designed to aid in the process of performing quality checks on metadata records in the Common Metadata Repository (CMR). A series of initial automated metadata quality checks are performed when ingesting a selected record into the tool, after which the record is available for manual review. Metadata reviewers perform manual quality checks in the tool, with the option to flag identified issues as high (red), medium (yellow), or low (blue) priority. Additionally, the tool allows reviewers to leave specific recommendations on how to resolve identified issues. Metrics are tracked for all of the data entered into the tool (e.g. number of high, medium, and low priority issues flagged) allowing for the generation of reports on the fly. Detailed reports can be generated for individual record reviews, which summarize the number of red, yellow and blue flagged elements along with recommendations made on how to resolve identified issues. Higher level reports, summarizing metrics across all records in the tool or from a certain data provider, can also be generated. Reports can be shared directly in the tool with other users.  
 
