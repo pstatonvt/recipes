@@ -26,7 +26,7 @@ All development work is done on local copies of the code base.  Follow the steps
 
 3. The user will then need to setup a local Postgres DB to connect to the app
 
-- Macs come pre-installed with PSQL (and a common way to manage it is with [PGAdmin](https://www.pgadmin.org/download/)
+- Macs come pre-installed with PSQL (and a common way to manage it is with [PGAdmin.](https://www.pgadmin.org/download/)
 
 - _From the command line/Terminal_ - enter the psql command line with the command +psql+
 
