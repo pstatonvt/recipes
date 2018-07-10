@@ -10,9 +10,9 @@ This tool was specifically developed for the Analysis and Review of CMR (ARC) Te
 
 ## Development Environment Set Up
 
-This can also be found (with pictures) [here](https://wiki.earthdata.nasa.gov/display/CMRARC/Dev+Environment+Set+Up).
+This can be found (with pictures) [here](https://wiki.earthdata.nasa.gov/display/CMRARC/Dev+Environment+Set+Up).
 
-## Setting Up Local Dev Project
+## Setting Up Local Development Project
 
 All development work is done on local copies of the code base.  Follow the steps below to prepare a local copy on your machine. *NOTE: ONLY RUBY 2.3 WILL WORK*
 
