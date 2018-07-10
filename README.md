@@ -26,7 +26,7 @@ All development work is done on local copies of the code base.  Follow the steps
 
 - I you run into the issue of +password authentication failed for user+ – try the command +psql -U postgres -h localhost+ and enter in the password for your computer
 
-4. From the PSQL console, you will need to add a +SUPERUSER+ and +DATABASE+ matching the database and username values shown in +config/database.yml+ within the project repo.  The development & test DB's both are in local Postgres.  There are many ways to create a postgres db and superuser.  These links can help –  [here](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac] and here[https://www.postgresql.org/docs/9.1/static/sql-createrole.html)
+4. From the PSQL console, you will need to add a +SUPERUSER+ and +DATABASE+ matching the database and username values shown in +config/database.yml+ within the project repo.  The development & test DB's both are in local Postgres.  There are many ways to create a postgres db and superuser.  These links can help –  [here](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac) and [here](https://www.postgresql.org/docs/9.1/static/sql-createrole.html)
 
 - The commands will look like: +CREATE USER user_found_in_config/database.yml WITH SUPERUSER PASSWORD: 'password_found_in_config/database.yml+
 
