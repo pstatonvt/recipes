@@ -6,7 +6,7 @@ The CMR Metadata Review tool is designed to aid in the process of performing qua
 
 ## Motivation
 
-This tool was specifically developed for the Analysis and Review of CMR (ARC) Team, which is responsible for conducting quality evaluations of NASA's metadata records in the Common Metadata Repository (CMR). The overarching goal of this project is to ensure that NASA data in the CMR is discoverable and accessible, and that the user experience is consistent when exploring data holdings 
+This tool was specifically developed for the Analysis and Review of CMR (ARC) Team, which is responsible for conducting quality evaluations of NASA's metadata records in the Common Metadata Repository (CMR). The overarching goal of this project is to ensure that NASA data in the CMR is discoverable and accessible, and that the user experience is consistent when exploring data holdings across NASA’s multiple data centers. Achieving this goal involves evaluating metadata for completeness, correctness, and consistency; a process largely supported by this tool.  
 
 ## Development Environment Set Up
 
